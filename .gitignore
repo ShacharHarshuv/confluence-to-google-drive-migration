@@ -1,4 +1,6 @@
-./output
-./confluence-export
-./downloaded-pages
+output
+confluence-export
+downloaded-pages
 .idea
+node_modules
+*.js
